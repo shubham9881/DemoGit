@@ -1,17 +1,20 @@
 This is my first git file...!!
 
 <html>
-<head> hello this is git demo
-<h1>
-heloo h1</h1>
+<<<<<<< HEAD
+
 
 <h2> head h2 created</h2>
 
 <h3> head h3 created</h3>
-</head>
+
+>>>>>>> bug456
 
 <body>
 
+<h1> good </h2>
+
+welcome shubham sundarkar
 <p>start</p>
 
 </body>
