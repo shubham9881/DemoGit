@@ -1,11 +1,17 @@
 This is my first git file...!!
 
 <html>
-<head> hello this is git demo</head>
+<head> hello this is git demo
+<h1>
+welcome shubham sundarkar</h1>
+
+<h2> head h2 created</h2>
+
+<h3> head h3 created</h3>
+</head>
 
 <body>
 
-welcome shubham sundarkar
 <p>start</p>
 
 </body>
